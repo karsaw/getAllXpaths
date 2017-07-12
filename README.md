@@ -1,5 +1,5 @@
-# xpath_genrator
-This Project will help extract all aboslute Xpaths from a WebPage.
+# xpath_generator
+##### This Project will help extract all aboslute Xpaths from a WebPage.
 
 > Please add the following dependecy to the project
 
