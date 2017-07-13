@@ -22,6 +22,7 @@
   [JSOUP JAR](https://jsoup.org/download)
   
  ## License
+    ##### MIT License
   ```
   Copyright 2017 dexterlabs.technology
 
